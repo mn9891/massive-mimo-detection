@@ -2,7 +2,7 @@
 
 ### Term project - Wireless Communications [ECSE610] - McGill - Winter 2017
 
-For the detection of large-scale MIMO systems, the following algorithms gave been implemented, evaluated and compared:
+For the detection of large-scale MIMO systems, the following algorithms have been implemented, evaluated and compared:
 - Minimum-Mean Squared Error (MMSE) detector
 - MMSE with successive interference cancellation (MMSE-SIC) algorithm
 - Approximated Message Passing (AMP) algorithm
